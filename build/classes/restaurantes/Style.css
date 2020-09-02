@@ -1,0 +1,36 @@
+#loginlayout {
+    -fx-background-color: #333;
+}
+#loginlayout PasswordField,
+#loginlayout TextField
+{
+    -fx-background-radius:15px;
+}
+/*MainMenu*/
+
+#slideRight{
+    -fx-background-color: #333;
+}
+#slideRight Button{
+    -fx-background-radius:50px;
+}
+
+
+#statastic{
+    -fx-background-color: coral;
+}
+#statastic TextField{
+
+    -fx-text-fill: red;
+}
+/*Meams*/
+
+#Meams{
+        -fx-background-color:#716161;
+    
+}
+
+/*Dranks*/
+#Dranks{
+    -fx-background-color:#716161;
+}
